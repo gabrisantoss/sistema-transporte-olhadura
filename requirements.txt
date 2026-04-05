@@ -1,0 +1,9 @@
+PyQt5
+qtawesome
+requests
+pandas
+openpyxl
+fpdf2
+folium
+matplotlib
+PyInstaller
